@@ -228,7 +228,7 @@ The interface updates instantly whenever a new gesture is detected.
 
 Video demonstration:
 
-![Demo](https://raw.githubusercontent.com/tecrade/WifiHandGesture/main/assets/wifigesturedemo.mp4)
+[Click Here For Demo](https://drive.google.com/file/d/1NBXaC7YxeLDagzs8iVKQqjOs6GkvlHd6/view?usp=sharing)
 
 ---
 

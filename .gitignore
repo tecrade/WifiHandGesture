@@ -1,0 +1,18 @@
+# Editor directories and files
+.vscode/
+
+# Virtual environments (Python)
+.venv/
+venv/
+.env/
+.env
+
+# Dependency directories (Node.js)
+node_modules/
+frontend/node_modules/
+sample.txt
+backend/.venv/
+backend/gesture.py
+backend/main.py
+backend/__pycache__/
+debug_serial.py
